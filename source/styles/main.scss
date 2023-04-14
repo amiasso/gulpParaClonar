@@ -1,0 +1,5 @@
+@use 'variaveis';
+
+Body {
+    background-color: variaveis.$corPrincipal;
+}
